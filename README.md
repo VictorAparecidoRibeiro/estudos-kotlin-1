@@ -1,1 +1,1 @@
-# estudos-kotlin-1
+# Estudos sobre Listas, Arrays na linguagem Kotlin
